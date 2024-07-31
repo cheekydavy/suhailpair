@@ -58,8 +58,8 @@ router.get('/', async (req, res) => {
 
                let MBUVI_MD_TEXT = `
 *𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
-*𝐄𝐧𝐣𝐨𝐲😺*
-*By _mbuvi⚪_*
+*𝐄𝐧𝐣𝐨𝐲 👌*
+*By _mbuvi✨_*
 ______________________________
 ╔════◇
 ║『 YOU'VE CHOSEN MBUVI MD 』
@@ -68,7 +68,7 @@ ______________________________
 ╚══════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@keithkeizzah_
+║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@Rhodvick_
 ║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254746440595_
 ║❍ 𝐑𝐞𝐩𝐨: _https://github.com/cheekydavy/MBUVI-MD_
 ║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P_
