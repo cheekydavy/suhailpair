@@ -1,8 +1,8 @@
 {
-    "name": "BELTAH-MD Pairing",
-    "description": "BELTAH-MD WA bot, Created by Beltah KE",
-    "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-    "repository": "https://github.com/Beltahmd/Beltah-Sessions",
+    "name": "MBUVI-MD Pairing",
+    "description": "MBUVI-MD WA bot, Created by Beltah KE",
+    "logo": "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
+    "repository": "https://github.com/cheekydavy/MBUVI-PAIR-CODE",
     "keywords": ["LegacyMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
