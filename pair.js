@@ -59,7 +59,7 @@ router.get('/', async (req, res) => {
                let MBUVI_MD_TEXT = `
 *𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
 *𝐄𝐧𝐣𝐨𝐲 👌*
-*By _mbuvi✨_*
+*By _🤖mbuvi🤖_*
 ______________________________
 ╔════◇
 ║『 YOU'VE CHOSEN MBUVI MD 』
